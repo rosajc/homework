@@ -14,7 +14,6 @@
 		4A6AAF4D1BB0D200002D7CCD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4A6AAF4B1BB0D200002D7CCD /* LaunchScreen.storyboard */; };
 		4A6AAF581BB0D200002D7CCD /* homeworkGATests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A6AAF571BB0D200002D7CCD /* homeworkGATests.swift */; };
 		4A6AAF631BB0D200002D7CCD /* homeworkGAUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A6AAF621BB0D200002D7CCD /* homeworkGAUITests.swift */; };
-		4A6AAF711BB0D96D002D7CCD /* Kayvon headshot.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4A6AAF701BB0D96D002D7CCD /* Kayvon headshot.jpg */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,7 +47,6 @@
 		4A6AAF5E1BB0D200002D7CCD /* homeworkGAUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = homeworkGAUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4A6AAF621BB0D200002D7CCD /* homeworkGAUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = homeworkGAUITests.swift; sourceTree = "<group>"; };
 		4A6AAF641BB0D200002D7CCD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		4A6AAF701BB0D96D002D7CCD /* Kayvon headshot.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Kayvon headshot.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,7 +100,6 @@
 				4A6AAF421BB0D200002D7CCD /* AppDelegate.swift */,
 				4A6AAF441BB0D200002D7CCD /* ViewController.swift */,
 				4A6AAF461BB0D200002D7CCD /* Main.storyboard */,
-				4A6AAF701BB0D96D002D7CCD /* Kayvon headshot.jpg */,
 				4A6AAF491BB0D200002D7CCD /* Assets.xcassets */,
 				4A6AAF4B1BB0D200002D7CCD /* LaunchScreen.storyboard */,
 				4A6AAF4E1BB0D200002D7CCD /* Info.plist */,
@@ -233,7 +230,6 @@
 			files = (
 				4A6AAF4D1BB0D200002D7CCD /* LaunchScreen.storyboard in Resources */,
 				4A6AAF4A1BB0D200002D7CCD /* Assets.xcassets in Resources */,
-				4A6AAF711BB0D96D002D7CCD /* Kayvon headshot.jpg in Resources */,
 				4A6AAF481BB0D200002D7CCD /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -487,6 +483,7 @@
 				4A6AAF691BB0D200002D7CCD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4A6AAF6A1BB0D200002D7CCD /* Build configuration list for PBXNativeTarget "homeworkGATests" */ = {
 			isa = XCConfigurationList;
@@ -495,6 +492,7 @@
 				4A6AAF6C1BB0D200002D7CCD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4A6AAF6D1BB0D200002D7CCD /* Build configuration list for PBXNativeTarget "homeworkGAUITests" */ = {
 			isa = XCConfigurationList;
@@ -503,6 +501,7 @@
 				4A6AAF6F1BB0D200002D7CCD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
